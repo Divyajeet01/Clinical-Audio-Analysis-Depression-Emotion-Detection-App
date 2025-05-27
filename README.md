@@ -24,5 +24,14 @@ During a studio-recorded conversation between a **doctor and a patient**, this t
 
 ---
 
-## 📁 Folder Structure
+⚕️ Target Users
+Psychiatrists
+Clinical psychologists
+Mental health researchers
+Speech and behavior analysts
+
+💡 Future Enhancements
+Support for multi-speaker diarization
+Real-time analysis from microphone
+Integration with patient history & records
 
